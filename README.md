@@ -7,8 +7,7 @@ These projects are related to NLP & Machine Learning for Text in English & Persi
 [Text Preprocessing](https://github.com/pouriaSameti/NLP/tree/master?tab=readme-ov-file#text-preprocessing)<br>
 [Language models](https://github.com/pouriaSameti/NLP/tree/master?tab=readme-ov-file#language-models)<br>
 [RNN, GRU & LSTM](https://github.com/pouriaSameti/NLP/tree/master?tab=readme-ov-file#rnn-gru--lstm)<br>
-<br><br>
-
+<br>
 
 ## Text Preprocessing
 In this part, we prepare data to train a model.
@@ -52,7 +51,7 @@ To Run this project, run these commands:
 ```python
   pip install wordcloud
 ```
-<br><br><br>
+<br><br>
 
 ## Language models
 In this part, we implement the elementary language models based on the probability of the tokens.
@@ -82,7 +81,7 @@ To Run this project, run these commands:
 ```python
   pip install hazm
 ```
-<br><br><br>
+<br><br>
 ## RNN, GRU & LSTM
 In this part, we implement models for text classification.
 
